@@ -23,6 +23,6 @@ public class Main {
         plate.info();
         System.out.println();
 
-    }//ортправка
+    }
 }
 
